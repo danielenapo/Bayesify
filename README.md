@@ -6,7 +6,7 @@
 Modern streaming platforms are known for their ability to predict the preferences of their users. The music industry in particular poses a complex challenge due to the vastness of different music genres and songs available.<br>
 This project aims to model a Bayesian Network from a dataset built by fetching Spotify's API personal data and to experiment with different queries and methods in order to find interesting relationships. Finally, a use case scenario with the final model is presented.
 
-- [Paper-like report](https://github.com/danielenapo/Bayesify/blob/main/Bayesify_project_report.pdf)
+- [Report](https://github.com/danielenapo/Bayesify/blob/main/Bayesify_project_report.pdf)
 - [Powerpoint presentation](https://github.com/danielenapo/Bayesify/blob/main/BayesifyPresentation.pptx)
 
 ## Screenshot
